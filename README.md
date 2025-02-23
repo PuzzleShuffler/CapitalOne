@@ -1,2 +1,3 @@
 # CapitalOne
- Analyzing Baby Names in Python
+
+Analyzing baby names in using pandas. Finished report within `CapitalOne.ipynb`.
